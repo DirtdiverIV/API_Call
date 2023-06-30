@@ -1,0 +1,101 @@
+.container {
+    width: 80%;
+    margin-top: 2em;
+    
+}
+
+body {
+    background-color: #000814;
+}
+
+.accordion-item {
+    background-color: #001D3D;
+    border-color: #FFC300;
+}
+
+.accordion-button {
+    background-color: #003566;
+    color: white;
+}
+
+.accordion-body {
+    color: white;
+}
+
+.accordion-header {
+    
+}
+
+pre {
+    background-color: #000814;
+    color: #FFD60A;
+}
+
+.navbar-custom {
+    background-color: #FFC300;
+    border: 2px solid #FFD60A;
+    border-color: #FFD60A;
+}
+
+.nav-link {
+    color: #000814;
+}
+
+.coming {
+    color: white;
+    font-size: 64px;
+    text-align: center;
+}
+
+th {
+    border: 2px solid #FFD60A;
+    padding: 1em;
+    background-color: #FFC300;
+    
+}
+
+td {
+    border: 2px solid #FFD60A;
+    padding: 1em;
+    background-color: #003566;
+    color: white;
+}
+
+#table-container {
+    display: flex;
+    justify-content: center;
+}
+
+#userDataContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+    margin-top: 2em;
+
+}
+
+#userDataContainer p {
+    border: 2px solid #FFD60A;
+    padding: 1em;
+    background-color: #003566;
+    color: white;
+
+}
+
+button {
+    background-color: #FFC300;
+    border-color: #FFD60A;
+}
+
+input {
+    border-color: #FFD60A;
+}
+
+.card-title {
+    color: #003566;
+}
+
+
+
+
